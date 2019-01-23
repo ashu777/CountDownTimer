@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountDownTimer</string>
+    <string name="text">Times Up!</string>
+</resources>
